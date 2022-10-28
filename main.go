@@ -1,7 +1,7 @@
 package main
 
-import "golang-gogogo/logic"
+import "fmt"
 
 func main() {
-	logic.Httptest()
+	fmt.Println("hello world")
 }
